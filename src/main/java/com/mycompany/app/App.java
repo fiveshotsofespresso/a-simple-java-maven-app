@@ -7,7 +7,7 @@ public class App
 {
 
     private final String message = "Hello World!";
-    print final String unusedMessage = "It's me!";
+    private final String unusedMessage = "It's me!";
 
     public App() {}
 
